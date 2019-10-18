@@ -1,0 +1,1 @@
+g++ -pthread -std=c++11 -g task_list.cpp main.cpp -o main
